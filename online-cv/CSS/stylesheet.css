@@ -4,12 +4,12 @@
     font-family: 'Dosis', sans-serif;
     background-color: #d7dce0;
 }
-.hero{
+.navbar{
     width: 80%;
     margin: auto;
     background-color: #d7dce0;
 }
-.navbar{
+.navbar-elements{
     margin: 40px auto;
     display: flex;
     align-items: right;
